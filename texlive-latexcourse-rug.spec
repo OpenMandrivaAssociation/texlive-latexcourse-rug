@@ -3,7 +3,7 @@ Version:	39026
 Release:	2
 Summary:	A LaTeX course book
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latexcourse-rug
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latexcourse-rug
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latexcourse-rug.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latexcourse-rug.doc.r%{version}.tar.xz
